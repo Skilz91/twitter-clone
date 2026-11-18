@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1794601821928,
+    "title": "Wine",
+    "body": "I love wine because they come in different varieties and taste delicious",
+    "tags": [
+      "winery"
+    ],
+    "reactions": {
+      "likes": 0,
+      "dislikes": 0
+    },
+    "views": 1,
+    "userId": 100
+  },
+  {
+    "id": 1794601119817,
+    "title": "new tweet",
+    "body": "just testing the whole project",
+    "tags": [
+      "thanks"
+    ],
+    "reactions": {
+      "likes": 0,
+      "dislikes": 0
+    },
+    "views": 1,
+    "userId": 100
+  },
+  {
+    "id": 1,
+    "title": "First Tweet",
+    "body": "This is my first tweet loaded from the backend API!",
+    "tags": [
+      "nextjs",
+      "api"
+    ],
+    "reactions": {
+      "likes": 120,
+      "dislikes": 5
+    },
+    "views": 305,
+    "userId": 121
+  },
+  {
+    "id": 2,
+    "title": "Hello World",
+    "body": "Ready to upgrade to MongoDB in Milestone 3!",
+    "tags": [
+      "react",
+      "webdev"
+    ],
+    "reactions": {
+      "likes": 85,
+      "dislikes": 2
+    },
+    "views": 150,
+    "userId": 122
+  }
+]
